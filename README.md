@@ -1,4 +1,4 @@
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=hugolb0&show_icons=true&hide_border=true" />
+[![HugoLB0's github stats](https://github-readme-stats.vercel.app/api?username=hugolb0)](https://github.com/hugolb0/hugolb0)
 
 
 
