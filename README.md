@@ -12,10 +12,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugolb0&layout=compact)](https://github.com/hugolb0/hugolb0)
-
-<a href="https://github.com/hugolb0/hugolb0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugolb0)](https://github.com/hugolb0/hugolb0" />
-</a>
-<a href="https://github.com/hugilb0/hugolb0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolb0&layout=compact)](https://github.com/hugolb0/hugolb0" />
-</a>
