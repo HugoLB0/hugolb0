@@ -12,3 +12,10 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugolb0&layout=compact)](https://github.com/hugolb0/hugolb0)
+
+<a href="https://github.com/hugolb0/hugolb0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugolb0&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolb0&layout=compact)](https://github.com/hugolb0/hugolb0" />
+</a>
