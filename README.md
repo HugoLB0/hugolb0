@@ -11,6 +11,7 @@ I’m a 16 year old programmer, passionated with Python. I like to contribute to
     <a href="https://instagram.com/hugolb0"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"></a>&nbsp;&nbsp;
     <a href="https://raw.githubusercontent.com/HugoLB0/hugolb0/master/wechat.png"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/wechat.svg"></a>&nbsp;&nbsp;
     <a href="https://t.me/hugolb0"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg"></a>&nbsp;&nbsp;
+    <a href="https://raw.githubusercontent.com/HugoLB0/hugolb0/master/btc_adress.png"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/bitcoin.svg"></a>&nbsp;&nbsp;
 <br>
 
 
