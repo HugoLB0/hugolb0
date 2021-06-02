@@ -6,6 +6,15 @@ I’m a 16 year old programmer, passionated with Python. I like to contribute to
 - ⚛️ I’m currently learning react native 
 - ✏️ I’m currently doing online class 
 
+<br>
+    <a href="mailto:hugolebelzic@gmail.com"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/hugolb0"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"></a>&nbsp;&nbsp;
+    <a href="https://raw.githubusercontent.com/HugoLB0/hugolb0/master/wechat.png"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/wechat.svg"></a>&nbsp;&nbsp;
+    <a href="https://t.me/hugolb0"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg"></a>&nbsp;&nbsp;
+<br>
+
+
+
 <a href="https://github.com/hugolb0/hugolb0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugolb0&show_icons=true&include_all_commits=true&count_private=true&" />
 </a>
