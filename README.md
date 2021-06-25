@@ -2,9 +2,7 @@
 ##  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,  My name is Hugo
 
 I’m a 16 year old programmer, passionated with Python. I like to contribute to open source project and help other people.
-- 🧑🏽‍💻 I’m currently working on [ransom0](https://github.com/HugoLB0/ransom0) and a trading bot
-- ⚛️ I’m currently learning react native 
-- ✏️ I’m currently doing online class 
+- 🧑🏽‍💻 I’m currently working on several projects for some clients
 
 <br>
     <a href="mailto:hugolebelzic@gmail.com"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"></a>&nbsp;&nbsp;
