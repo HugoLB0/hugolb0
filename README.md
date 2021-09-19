@@ -3,7 +3,7 @@
 
 I’m a 16 year old programmer, passionated with Python. I like to contribute to open source project and help other people.
 - 🧑🏽‍💻 I’m currently working on several projects for some clients
-- 💴 Contact me for FUD and private version of tools
+- 💴 Looking for work
 
 <br>
     <a href="mailto:hugolebelzic@gmail.com"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"></a>&nbsp;&nbsp;
