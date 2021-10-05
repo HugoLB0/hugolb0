@@ -1,9 +1,9 @@
 
 ##  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,  My name is Hugo
 
-I’m a 16 year old programmer, passionated with Python. I like to contribute to open source project and help other people.
-- 🧑🏽‍💻 I’m currently working on several projects for some clients
-- 💴 Looking for work
+[comment]: <I’m a 16 year old programmer, passionated with Python. I like to contribute to open source project and help other people.>
+[comment]: <- 🧑🏽‍💻 I’m currently working on several projects for some clients>
+[comment]: <- 💴 Looking for work>
 
 <br>
     <a href="mailto:hugolebelzic@gmail.com"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"></a>&nbsp;&nbsp;
