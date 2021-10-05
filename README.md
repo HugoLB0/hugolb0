@@ -20,5 +20,5 @@ I’m a 16 year old programmer, passionated with Python. I like to contribute to
 </a>
 
 <a href="https://github.com/hugolb0/hugolb0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolb0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolb0&them=dark&" />
 </a>
