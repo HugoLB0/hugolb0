@@ -14,12 +14,18 @@
    
 <br>
 
+
+<a href="https://github.com/hugolb0/hugolb0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugolb0&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+
+<a href="https://github.com/hugolb0/hugolb0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolb0" />
+</a>
+<br>
+
+
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1Bw82zC5FnVtw93ZrcALQTeZBXgtVWH75n)](https://en.cryptobadges.io/badge/big/1Bw82zC5FnVtw93ZrcALQTeZBXgtVWH75n)
 
-<a href="https://github.com/hugolb0/hugolb0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugolb0&show_icons=true&include_all_commits=true&count_private=true&theme=dark&" />
-</a>
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x71b163e2fc5b2c10cd8cf0a2cc8917db6db57326)](https://en.cryptobadges.io/badge/big/0x71b163e2fc5b2c10cd8cf0a2cc8917db6db57326)
 
-<a href="https://github.com/hugolb0/hugolb0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolb0&theme=dark&" />
-</a>
