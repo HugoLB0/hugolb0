@@ -25,7 +25,6 @@
 <br>
 
 
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1Bw82zC5FnVtw93ZrcALQTeZBXgtVWH75n)](https://en.cryptobadges.io/badge/big/1Bw82zC5FnVtw93ZrcALQTeZBXgtVWH75n)
 
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x71b163e2fc5b2c10cd8cf0a2cc8917db6db57326)](https://en.cryptobadges.io/badge/big/0x71b163e2fc5b2c10cd8cf0a2cc8917db6db57326)
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x3661Ed209e648485E939B044D55f7bEAa0eD6D54)](https://en.cryptobadges.io/badge/big/0x3661Ed209e648485E939B044D55f7bEAa0eD6D54)
 
