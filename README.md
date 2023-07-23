@@ -9,7 +9,7 @@
 <br>
     <a href="mailto:hugolebelzic@gmail.com"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/hugolb0"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"></a>&nbsp;&nbsp;
-    <a href="https://raw.githubusercontent.com/HugoLB0/hugolb0/master/wechat.png"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/wechat.svg"></a>&nbsp;&nbsp;
+    </a>
     <a href="https://t.me/hugolb0"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg"></a>&nbsp;&nbsp;
    
 <br>
@@ -25,6 +25,4 @@
 <br>
 
 
-
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x3661Ed209e648485E939B044D55f7bEAa0eD6D54)](https://en.cryptobadges.io/badge/big/0x3661Ed209e648485E939B044D55f7bEAa0eD6D54)
 
