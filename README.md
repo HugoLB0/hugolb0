@@ -11,6 +11,7 @@
     <a href="https://instagram.com/hugolb0"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"></a>&nbsp;&nbsp;
     </a>
     <a href="https://t.me/hugolb0"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg"></a>&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/723813702888980492"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"></a>&nbsp;&nbsp;
    
 <br>
 
@@ -23,6 +24,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolb0" />
 </a>
 <br>
-
 
 
