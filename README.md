@@ -1,28 +1,28 @@
+```text
 
-##  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,  My name is Hugo
+----------------------------- 🐍 Python Developer -----------------------------
 
-[comment]: <I’m a 16 year old programmer, passionated with Python. I like to contribute to open source project and help other people.>
-[comment]: <- 🧑🏽‍💻 I’m currently working on several projects for some clients>
-[comment]: <- 💴 Looking for work>
+👋 Hi there! I'm a freelance developer specializing in:
 
+- 🤖 Machine Learning
+- 🌐 Web Scraping
+- 🔒 Penetration Testing
 
-<br>
-    <a href="mailto:hugolebelzic@gmail.com"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/hugolb0"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"></a>&nbsp;&nbsp;
-    </a>
-    <a href="https://t.me/hugolb0"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg"></a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/723813702888980492"><img height="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"></a>&nbsp;&nbsp;
-   
-<br>
+🔨 Languages and Tools:
+- Python
+- Various ML frameworks (TensorFlow, PyTorch, Scikit-learn)
+- Web scraping tools (BeautifulSoup, Scrapy, Selenium)
+- Penetration testing tools (Metasploit, Nmap, Wireshark)
 
+🛠️ Current Projects:
+- [Enhanced-GPT-4]: https://github.com/HugoLB0/gpt-4-enhanced
+- [Ransom0]: https://github.com/HugoLB0/Ransom0
+- [Browser creds stealer]: https://github.com/HugoLB0/browser-creds
 
-<a href="https://github.com/hugolb0/hugolb0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugolb0&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
+📫 How to reach me: 
+- Email: hugolebelzic@protonmail.com
+- LinkedIn: https://www.linkedin.com/in/hugo-le-belzic-4aa68a207/
 
-<a href="https://github.com/hugolb0/hugolb0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolb0" />
-</a>
-<br>
+💼 Open for Freelance Projects!
 
-
+--------------------------------------------------------------------------------
