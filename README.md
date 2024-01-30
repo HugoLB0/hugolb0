@@ -1,7 +1,6 @@
 ```text
 
 ----------------------------- 🐍 Python Developer -----------------------------
-
 👋 Hi there! I'm a freelance developer specializing in:
 
 - 🤖 Machine Learning
