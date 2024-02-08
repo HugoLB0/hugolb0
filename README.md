@@ -1,7 +1,7 @@
 ```text
 
 ----------------------------- 🐍 Python Developer -----------------------------
-👋 Hi there! I'm a freelance developer specializing in:
+👋 Hi there! Here's what I can do:
 
 - 🤖 Machine Learning
 - 🌐 Web Scraping
@@ -23,6 +23,6 @@
 - Email: hugolebelzic@protonmail.com
 - LinkedIn: https://www.linkedin.com/in/hugo-le-belzic-4aa68a207/
 
-💼 Open for Freelance Projects!
+💼 Open for Projects & Work !
 
 --------------------------------------------------------------------------------
