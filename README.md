@@ -10,7 +10,8 @@
 😃 A bit more about me:
 - 🏆 1st place at Entrepreneur First Multimodal AI Hackathon
 - 🏅 Antler Young Talent
-- 💼 Startup Founder (in stealth mode cuz we like to keep things secret)
+- 🏗️ Startup Founder (in stealth mode cuz we like to keep things secret)
+- 💼 Full stack & ML dev at Cypheme SAS (Station F, Paris)
 
 🔨 Languages and Tools:
 - Python
