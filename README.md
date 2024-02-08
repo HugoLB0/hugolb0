@@ -12,6 +12,7 @@
 - 🏅 Antler Young Talent
 - 🏗️ Startup Founder (in stealth mode cuz we like to keep things secret)
 - 💼 Full stack & ML dev at Cypheme SAS (Station F, Paris)
+- 🏫 Student at IA Institut by Epita & ISG
 
 🔨 Languages and Tools:
 - Python
