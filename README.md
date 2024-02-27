@@ -8,8 +8,10 @@
 - 🔒 Penetration Testing
 
 😃 A bit more about me:
-- 🏆 1st place at Entrepreneur First Multimodal AI Hackathon
+- 🥇 1st place at Entrepreneur First Multimodal AI Hackathon
+- 🥈 2cnd place Aleph.im hackathon at Epitech
 - 🏅 Antler Young Talent
+- 💼 Entrepreneur First W24 Graduate Paris, at Station F
 - 🏗️ Startup Founder (in stealth mode cuz we like to keep things secret)
 - 💼 Full stack & ML dev at Cypheme SAS (Station F, Paris)
 - 🏫 Student at IA Institut by Epita & ISG
