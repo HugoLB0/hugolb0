@@ -1,5 +1,4 @@
 ```text
-
 ----------------------------- 🐍 Bouuuhuuouuuuuuu -----------------------------
 👋 Hi there!
 I'm Hugo, a 19y old building at Entrepreneur First in Station F.
